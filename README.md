@@ -105,7 +105,15 @@ Example rows:
 - Angle Unit: **Radians**
 - Recommended View:  
   - x-axis: 50 → 120  
-  - y-axis: 40 → 80  
+  - y-axis: 40 → 80
+
+🟢 **Interactive Graph Link:**  
+👉 [Click here to view the fitted parametric curve on Desmos](https://www.desmos.com/calculator/0qsxvktevx)
+
+This Desmos plot visualizes the final fitted curve using the optimized parameters:  
+- θ = 28.10°  
+- M = 0.02125  
+- X = 54.89815  
 
 ---
 
