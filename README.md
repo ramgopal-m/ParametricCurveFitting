@@ -60,7 +60,7 @@ Example rows:
    \]$$
 5. **Optimized parameters**:
    - Performed a **coarse-to-fine grid search** for $$\( \theta, M \)$$
-   - Chose optimal \( X \) as the **median** of $$ \( x_{\text{data}} - x_{\text{model}} \)$$
+   - Chose optimal \( X \) as the **median** of $$ \[( x_{\text{data}} - x_{\text{model}} \)]$$
 6. **Validated visually** using Matplotlib and Desmos.
 
 ---
@@ -69,7 +69,7 @@ Example rows:
 
 | Parameter | Symbol | Final Value |
 |------------|---------|-------------|
-| Rotation angle | \( \theta \) | 28.10° (0.4904 rad) |
+| Rotation angle | $$\( \theta \)$$ | 28.10° (0.4904 rad) |
 | Exponential factor | \( M \) | 0.02125 |
 | X offset | \( X \) | 54.89815 |
 | L1 Mean Error | — | 25.243 |
