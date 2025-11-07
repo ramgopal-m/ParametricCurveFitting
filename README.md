@@ -161,7 +161,7 @@ This Desmos plot visualizes the final fitted curve using the optimized parameter
 
 ## 📎 References
 
-- [Desmos Graphing Calculator]((https://www.desmos.com/calculator/0qsxvktevx))
+- [Desmos Graph – Final Fitted Parametric Curve](https://www.desmos.com/calculator/0qsxvktevx)
 - [NumPy Documentation](https://numpy.org/doc/)
 - [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
 
