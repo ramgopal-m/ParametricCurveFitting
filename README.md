@@ -112,7 +112,7 @@ Example rows:
 ## 📉 Visualizations
 
 ### (a) Given (x, y) Data Points
-![Data Points](plots/data_points.png)
+![Data Points](plots/datapoints.png)
 
 ### (b) Fitted Curve vs Data
 ![Fitted Curve](plots/Fitted_curve.png)
