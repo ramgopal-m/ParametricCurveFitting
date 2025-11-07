@@ -80,15 +80,10 @@ Example rows:
 
 ## 🧠 Final Parametric Equation (LaTeX Format)
 
-$$
-\left(
-t \cos(0.490438)
-- e^{0.021250|t|} \sin(0.3t) \sin(0.490438)
-+ 54.898154,\;
-42 + t \sin(0.490438)
-+ e^{0.021250|t|} \sin(0.3t) \cos(0.490438)
-\right)
-$$
+
+\left(t \cos(0.490438)- e^{0.021250|t|} \sin(0.3t) \sin(0.490438)+ 54.898154,\;
+42 + t \sin(0.490438)+ e^{0.021250|t|} \sin(0.3t) \cos(0.490438)\right)
+
 
 
 ---
