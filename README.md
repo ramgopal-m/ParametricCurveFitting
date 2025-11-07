@@ -87,13 +87,15 @@ t\cos(0.490438)
 ## 🧭 Desmos Verification
 
 **Desmos Expression (copy-paste directly):**
-( tcos(0.490438) - e^(0.021250abs(t))sin(0.3t)sin(0.490438) + 54.898154,
-42 + tsin(0.490438) + e^(0.021250*abs(t))sin(0.3t)*cos(0.490438) )
-
+```
+( t*cos(0.490438) - e^(0.021250*abs(t))*sin(0.3*t)*sin(0.490438) + 54.898154,
+  42 + t*sin(0.490438) + e^(0.021250*abs(t))*sin(0.3*t)*cos(0.490438) )
+```
 
 **Domain:**
+```
 6 ≤ t ≤ 60
-
+```
 
 **Desmos Settings:**
 - Angle Unit: **Radians**
@@ -142,14 +144,16 @@ t\cos(0.490438)
 
 ## 📂 Repository Structure
 
+```
 curve-fitting-assignment/
 │
 ├── xy_data.csv
 ├── Parametric_Fitting.ipynb
 ├── README.md
 └── plots/
-├── data_points.png
-└── fitted_curve.png
+    ├── data_points.png
+    └── fitted_curve.png
+```
 
 ---
 
@@ -162,4 +166,3 @@ curve-fitting-assignment/
 | Fitted Parameters | θ=28.10°, M=0.02125, X=54.89815 | ✅ |
 | Desmos Graph | Parametric curve verified | ✅ |
 | Report (README.md) | Detailed methodology and results | ✅ |
-
