@@ -55,12 +55,12 @@ Example rows:
 2. **Assumed** \( t \) values uniformly spaced between 6 and 60.  
 3. **Defined** the parametric equations for \(x(t)\) and \(y(t)\).  
 4. **Computed L1 loss** between actual and predicted points:
-   \[
+   $$\[
    L = \frac{1}{N}\sum_i \left( |x_i - \hat{x}_i| + |y_i - \hat{y}_i| \right)
-   \]
+   \]$$
 5. **Optimized parameters**:
-   - Performed a **coarse-to-fine grid search** for \( \theta, M \)
-   - Chose optimal \( X \) as the **median** of \( x_{\text{data}} - x_{\text{model}} \)
+   - Performed a **coarse-to-fine grid search** for $$\( \theta, M \)$$
+   - Chose optimal \( X \) as the **median** of $$ \( x_{\text{data}} - x_{\text{model}} \)$$
 6. **Validated visually** using Matplotlib and Desmos.
 
 ---
