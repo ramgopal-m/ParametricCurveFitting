@@ -5,13 +5,14 @@
 Find the unknown parameters \( \theta, M, X \) in the given **parametric equations** of a curve:
 
 
-**Equation (x):**
+$$
+x = \left( t * \cos(\theta) - e^{M|t|} \cdot \sin(0.3t) \sin(\theta) + X \right)
+$$
 
-x(t) = t * cos(θ) − e^(M·|t|) * sin(0.3·t) * sin(θ) + X  
+$$
+y = \left( 42 + t * \sin(\theta) + e^{M|t|} \cdot \sin(0.3t) \cos(\theta) \right)
+$$
 
-**Equation (y):**
-
-y(t) = 42 + t * sin(θ) + e^(M·|t|) * sin(0.3·t) * cos(θ)
 
 
 ### Unknowns
