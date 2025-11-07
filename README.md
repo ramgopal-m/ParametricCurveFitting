@@ -67,6 +67,19 @@ Example rows:
 
 ---
 
+## 📂 Repository Structure
+
+```
+curve-fitting-assignment/
+│
+├── xy_data.csv
+├── Parametric_Fitting.ipynb
+├── README.md
+└── plots/
+    ├── data_points.png
+    └── fitted_curve.png
+```
+
 ## 🧾 Results
 
 | Parameter | Symbol | Final Value |
@@ -154,27 +167,4 @@ This Desmos plot visualizes the final fitted curve using the optimized parameter
 
 ---
 
-## 📂 Repository Structure
 
-```
-curve-fitting-assignment/
-│
-├── xy_data.csv
-├── Parametric_Fitting.ipynb
-├── README.md
-└── plots/
-    ├── data_points.png
-    └── fitted_curve.png
-```
-
----
-
-## 🧾 Final Submission Summary
-
-| Item | Description | Status |
-|------|--------------|:------:|
-| Data File | xy_data.csv | ✅ |
-| Colab Notebook | Parametric_Fitting.ipynb | ✅ |
-| Fitted Parameters | θ=28.10°, M=0.02125, X=54.89815 | ✅ |
-| Desmos Graph | Parametric curve verified | ✅ |
-| Report (README.md) | Detailed methodology and results | ✅ |
