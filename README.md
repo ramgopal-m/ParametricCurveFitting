@@ -2,7 +2,9 @@
 
 ## 🧩 Problem Statement
 
-Find the unknown parameters $$ \[ \theta, M, X \]$$ in the given **parametric equations** of a curve:
+Find the unknown parameters $$\[
+\theta \; M \; X
+\]$$ in the given **parametric equations** of a curve:
 
 
 $$
@@ -17,7 +19,7 @@ $$
 
 ### Unknowns
 $$\[
-\theta, \; M, \; X
+\theta \; M \; X
 \]$$
 
 ### Parameter Ranges
