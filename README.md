@@ -115,7 +115,7 @@ Example rows:
 ![Data Points](plots/data_points.png)
 
 ### (b) Fitted Curve vs Data
-![Fitted Curve]plots/Fitted_curve.png
+![Fitted Curve](plots/Fitted_curve.png)
 
 ---
 
