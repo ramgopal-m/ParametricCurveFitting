@@ -2,7 +2,7 @@
 
 ## 🧩 Problem Statement
 
-Find the unknown parameters \( \theta, M, X \) in the given **parametric equations** of a curve:
+Find the unknown parameters $$ \( \theta, M, X \)$$ in the given **parametric equations** of a curve:
 
 
 $$
@@ -16,14 +16,14 @@ $$
 
 
 ### Unknowns
-\[
+$$\[
 \theta, \; M, \; X
-\]
+\]$$
 
 ### Parameter Ranges
-\[
+$$\[
 0° < \theta < 50°, \quad -0.05 < M < 0.05, \quad 0 < X < 100
-\]
+\]$$
 
 ### Parameter ‘t’
 \[
